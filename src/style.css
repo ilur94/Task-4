@@ -78,4 +78,8 @@ footer{
 }
 .footer-text{
     padding-top: 20px;
+    color: white;
+}
+.footer-conteiner{
+    color: blue;
 }
