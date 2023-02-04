@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+.row{
+   display: flex;
+   gap: 10%;
+   justify-content: center;
+}
+.nav-item{
+    list-style: none;
+    font-size: large;
+    font-style: italic
+    
+}
+header{
+    background-color: blanchedalmond;
+    padding: 14px;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+.col-6{
+    font-size: 180px;
+    color: rgb(246, 69, 66);
+    margin-top: 100px;
+}
+#banner{
+    background-image: url(../src/banner-image/bannerimage.jpg);
+    height: 100vh; 
+    background-size: cover;
+}
+.title{
+    font-size: 50px;
+}
+.col-4{
+    background-color: bisque;
+    padding: 30px;
+}
+.col-3{
+    width: 80%;
+}
+.image-conteineer{
+    width: 100%;
+}
+.image-conteineer p{
+    text-align: center;
+}
+#gallery{
+    background-color: rgb(244, 231, 249);
+}
+.btn{
+    weight: 250px
+}
